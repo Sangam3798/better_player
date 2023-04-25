@@ -10,12 +10,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  wakelock: ^0.5.6
+  wakelock: ^0.6.2
   visibility_detector: ^0.3.3
-  xml: ^5.3.0
+  xml: ^6.1.0
   pedantic: ^1.11.1
   flutter_widget_from_html_core: ^0.8.2
-  path_provider: ^2.0.5
+  path_provider: ^2.0.14
   collection: ^1.15.0
 
 dev_dependencies:
